@@ -1,2 +1,2 @@
-# Bachelor-Kystlaget-Trondhjem-PWA
+# Bachelor
 PWA for booking and key management system
